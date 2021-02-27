@@ -10,6 +10,6 @@ public class VampireBat extends Animal{
 
     @Override
     public void speak() {
-        System.out.println("reeeeeeeeeeeeeeeeeeeeeeeeee");
+        System.out.println("1 ahahah 2 ahahah 3 ahahah 4 ahhahhh");
     }
 }
